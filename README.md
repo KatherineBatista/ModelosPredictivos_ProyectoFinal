@@ -10,6 +10,7 @@
 ## Agradecimientos
 
 Quiero expresar mi sincero agradecimiento a mis compañeros del curso de Modelos Predictivos, Victoria Rodríguez y Miguel Valzania, por su valioso apoyo, colaboración y compañerismo a lo largo de esta experiencia de aprendizaje.
+
 Gracias Infinitas Colegas 💚 💜 💙 💛 🧡
 
 Este repositorio contiene los entregables y archivos del proyecto final:
