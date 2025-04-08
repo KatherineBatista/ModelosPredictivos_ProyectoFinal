@@ -6,13 +6,14 @@
 👩‍🎓 Estudiante: Katherine Batista  
 👨‍🏫 Profesor: Juan Marcos Castillo, PhD
 
----
+
 ## Agradecimientos
 
 Quiero expresar mi sincero agradecimiento a mis compañeros del curso de Modelos Predictivos, Victoria Rodríguez y Miguel Valzania, por su valioso apoyo, colaboración y compañerismo a lo largo de esta experiencia de aprendizaje.
 
 Gracias Infinitas Colegas 💚 💜 💙 💛 🧡
 
+---
 Este repositorio contiene los entregables y archivos del proyecto final:
 
 - `Dataset_financial_risk.xlsx`: Conjunto de datos original.
